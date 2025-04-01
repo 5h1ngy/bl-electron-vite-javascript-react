@@ -8,6 +8,8 @@
 
 An Electron application with React, Vite, and JavaScript. Ideal for creating modern, responsive desktop applications with a powerful UI framework.
 
+**Topics:** `electron` `react` `javascript` `vite` `cross-platform` `desktop-app` `offline-first` `local-storage` `data-export`
+
 ## 📋 Table of Contents
 - [Features](#-features)
 - [Project Structure](#-project-structure)
